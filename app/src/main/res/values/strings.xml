@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TallerMaps</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+
+    <string name= "google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyBvkZSBIHN7wTW5fjPYTEwzlYgitKa30cs
+    </string>
+</resources>
